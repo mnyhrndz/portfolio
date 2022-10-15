@@ -62,4 +62,7 @@ img.next-image {
 
 .nav-line .nav-link {
   color: #69778c;
+  display: flex;
+  align-items: left;
+}
 }
